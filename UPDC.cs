@@ -1,0 +1,1 @@
+﻿Console.WriteLine("ДАТА ЦЕНТР КОНТЕНТ МЕЙКЕРОВ UNGATRIX PROJECT");
